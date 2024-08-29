@@ -1,2 +1,2 @@
 # proyecto-unilabs
-Repositorio privado de código, proyectos universitarios generales.
+Aquí reside el codigo de Taller Agenda de Contactos.
