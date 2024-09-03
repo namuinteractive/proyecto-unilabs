@@ -1,7 +1,12 @@
-package com.unilabs.agenda;
+package com.unilabs.agenda.App;
 
 // Se importan las librerias
 import com.toedter.calendar.JDateChooser; // Para el selector de calendario
+import com.unilabs.agenda.Modal.Agenda;
+import com.unilabs.agenda.Modal.Contacto;
+import com.unilabs.agenda.Modal.Grupo;
+import com.unilabs.agenda.Modal.Reunion;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

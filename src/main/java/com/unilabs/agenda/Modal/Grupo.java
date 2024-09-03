@@ -1,7 +1,6 @@
-package com.unilabs.agenda;
+package com.unilabs.agenda.Modal;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Grupo {
 

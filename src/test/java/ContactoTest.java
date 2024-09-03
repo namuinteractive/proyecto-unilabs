@@ -1,4 +1,4 @@
-import com.unilabs.agenda.Contacto;
+import com.unilabs.agenda.Modal.Contacto;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

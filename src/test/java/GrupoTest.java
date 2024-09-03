@@ -1,5 +1,5 @@
-import com.unilabs.agenda.Grupo;
-import com.unilabs.agenda.Contacto;
+import com.unilabs.agenda.Modal.Grupo;
+import com.unilabs.agenda.Modal.Contacto;
 
 import org.junit.Test;
 import java.util.ArrayList;

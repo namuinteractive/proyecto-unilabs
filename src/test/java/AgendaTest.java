@@ -1,7 +1,7 @@
-import com.unilabs.agenda.Contacto;
-import com.unilabs.agenda.Reunion;
-import com.unilabs.agenda.Grupo;
-import com.unilabs.agenda.Agenda;
+import com.unilabs.agenda.Modal.Contacto;
+import com.unilabs.agenda.Modal.Reunion;
+import com.unilabs.agenda.Modal.Grupo;
+import com.unilabs.agenda.Modal.Agenda;
 
 import java.util.ArrayList;
 import static org.junit.jupiter.api.Assertions.*;
